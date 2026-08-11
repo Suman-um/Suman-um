@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman Mogali</h1>
 <h3 align="center">Computer Science Final Year | Java & DSA | Full-Stack Development | AI/ML</h3>
 
-- 🌱 I’m currently learning **and improving Data Structures & Algorithms with Java Full-Stack Development**
+- 🌱 I’m currently learning **and improving Data Structures & Algorithms with Java and Full-Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suman-um](https://github.com/Suman-um)
 
