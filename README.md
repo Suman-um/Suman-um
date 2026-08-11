@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suman-um](https://github.com/Suman-um)
 
-- 💬 Ask me about **Java, DSA, React.js, Node.js, MongoDB and Machine Learning**
+- 💬 Ask me about **Java, React.js, Node.js, MongoDB and Machine Learning**
 
 - 📫 How to reach me **suman.mogali2005@gmail.com**
 
